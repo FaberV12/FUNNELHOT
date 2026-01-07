@@ -1,0 +1,58 @@
+═══════════════════════════════════════════════════════════════
+  FUNNELHOT - INSTRUCCIONES DE USO
+═══════════════════════════════════════════════════════════════
+
+REQUISITO PREVIO:
+  - Debes tener Node.js instalado en tu computadora
+  - Si no lo tienes, descárgalo desde: https://nodejs.org/
+  - Instala la versión LTS (recomendada)
+
+═══════════════════════════════════════════════════════════════
+  MÉTODO SIMPLE (RECOMENDADO)
+═══════════════════════════════════════════════════════════════
+
+1. Haz doble clic en el archivo: INICIAR.bat
+
+2. Espera a que se abra automáticamente en tu navegador
+
+3. ¡Listo! Ya puedes usar la aplicación
+
+═══════════════════════════════════════════════════════════════
+  PARA DETENER EL SERVIDOR
+═══════════════════════════════════════════════════════════════
+
+- Haz doble clic en: DETENER.bat
+- O simplemente cierra la ventana negra que se abrió
+
+═══════════════════════════════════════════════════════════════
+  SOLUCIÓN DE PROBLEMAS
+═══════════════════════════════════════════════════════════════
+
+Si el programa no inicia:
+
+1. Verifica que tengas Node.js instalado:
+   - Abre una terminal (cmd o PowerShell)
+   - Escribe: node --version
+   - Debe mostrar un número de versión (ej: v18.17.0)
+
+2. Si no tienes Node.js:
+   - Ve a https://nodejs.org/
+   - Descarga e instala la versión LTS
+   - Reinicia tu computadora
+   - Intenta de nuevo con INICIAR.bat
+
+3. Si el puerto 3000 está ocupado:
+   - Cierra otras aplicaciones que puedan estar usando ese puerto
+   - O ejecuta: DETENER.bat y luego INICIAR.bat de nuevo
+
+═══════════════════════════════════════════════════════════════
+  CONTACTO Y SOPORTE
+═══════════════════════════════════════════════════════════════
+
+Si tienes problemas, verifica:
+- Que Node.js esté correctamente instalado
+- Que no haya otros programas usando el puerto 3000
+- Que tengas conexión a internet (para la primera instalación)
+
+═══════════════════════════════════════════════════════════════
+

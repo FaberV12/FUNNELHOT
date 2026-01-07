@@ -149,10 +149,10 @@ Tipografía
 - Tamaños legibles en todos los dispositivos
 
  Componentes UI
-- **Botones**: Variantes (primary, secondary, danger, ghost) con estados hover/active
-- **Modal**: Backdrop con blur, animaciones suaves
-- **Cards**: Sombras sutiles, hover effects
-- **Formularios**: Validación visual con bordes rojos, mensajes de error claros
+- Botones: Variantes (primary, secondary, danger, ghost) con estados hover/active
+- Modal: Backdrop con blur, animaciones suaves
+- Cards: Sombras sutiles, hover effects
+- Formularios: Validación visual con bordes rojos, mensajes de error claros
 
 Responsive Design
 - Grid adaptativo: 1 columna en mobile, 2 en tablet, 3 en desktop
